@@ -2,7 +2,7 @@
 ![03_practice_item3](https://github.com/JungHyun-Ahn/SmallProject-ToDoList/assets/84699689/4b1ed951-3840-4534-9247-e1dd7068ec1b)
 
 ## Simple ToDo List
-* 수업시간 때 배운 내용을 복습하여 만든 ToDo List입니다. 본 사이트는 포트폴리오 용도로 만들어졌습니다.<br/>
+* 수업시간 때 배운 내용을 복습하여 만든 ToDo List입니다.<br/>
 * 제작 기간 : 1일<br/>
 * 참여율 : 100%
 
